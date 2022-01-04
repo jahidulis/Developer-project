@@ -1,3 +1,20 @@
 body{
     background-color: rgb(185, 184, 182);
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.color-1{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-1{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-1 img{
+    width: 90%;
 }
